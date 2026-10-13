@@ -4,3 +4,5 @@ Argentina
 Mexico
 Venezuela
 Bolivia
+España
+Francia
